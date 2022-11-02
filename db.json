@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "id": 4,
+      "name": "akia",
+      "categories": "iphone",
+      "description": "Dien thoai hot",
+      "images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "salePrice": 33,
+      "regularPrice": 22,
+      "rating": 2
+    },
+    {
+      "name": "sontuduc11111",
+      "images": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "salePrice": "1123",
+      "regularPrice": "123",
+      "description": "123",
+      "rating": "1",
+      "categories": "iphone",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "iphone"
+    },
+    {
+      "id": 2,
+      "name": "sam sung"
+    }
+  ]
+}
